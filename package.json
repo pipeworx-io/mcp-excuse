@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-excuse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "excuse MCP — wraps StupidAPIs (keyless — no credential needed)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-77f4066585f188d9767f51864b92b154f1b5120f80f61c48138687766b6b87f0",
+    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
   }
 }
